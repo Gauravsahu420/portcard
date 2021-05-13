@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portcard/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/portcard/static/js/main.72137504.chunk.js",
+    "main.js.map": "/portcard/static/js/main.72137504.chunk.js.map",
+    "runtime-main.js": "/portcard/static/js/runtime-main.77773f9f.js",
+    "runtime-main.js.map": "/portcard/static/js/runtime-main.77773f9f.js.map",
+    "static/js/2.321e4fb4.chunk.js": "/portcard/static/js/2.321e4fb4.chunk.js",
+    "static/js/2.321e4fb4.chunk.js.map": "/portcard/static/js/2.321e4fb4.chunk.js.map",
+    "index.html": "/portcard/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/portcard/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.321e4fb4.chunk.js.LICENSE.txt": "/portcard/static/js/2.321e4fb4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77773f9f.js",
+    "static/js/2.321e4fb4.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.72137504.chunk.js"
+  ]
+}
